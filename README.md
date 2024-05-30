@@ -140,6 +140,7 @@ See [/exampleSite/config.toml](https://github.com/AmazingRise/hugo-theme-diary/b
 
 ![](images/m_drawer.png)
 
+key:FCTF2024haha
 </details>
 
 
